@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[@majidtdeni666]\e[1;92m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[1;92m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Voice-Welcome/termux.mp3
+mpv /$HOME/Welcome-Voice/termux.mp3
 clear
 echo -e "Created By \e[1;92mMajidt"
 echo "----------------------------" | lolcat
