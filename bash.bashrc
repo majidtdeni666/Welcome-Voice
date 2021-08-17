@@ -2,6 +2,8 @@ command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────[\e[1;93m@majidtdeni666\e[1;92m]───[\[\e[1;93m#\[\e[1;92m]\n|\n\e[0;31m└─[\[\e[31m\]\e[1;92m\W\[\e[31m\]]────\e[1;92m►\e[1;97m'
+echo -e '\e[4 q'
+echo -ne "\033]12;#7CFC00\007"
 clear
 mpv /$HOME/Welcome-Voice/termux.mp3
 clear
