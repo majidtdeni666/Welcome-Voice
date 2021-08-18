@@ -12,3 +12,7 @@ Termux Voice Welcome
 - sh install.sh
 
 Now Type exit & restart Termux
+
+### Pic
+
+src="https://github.com/majidtdeni666/Welcome-Voice/blob/main/.scp/termux.jpg"
