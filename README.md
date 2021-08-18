@@ -15,4 +15,4 @@ Now Type exit & restart Termux
 
 ### Pic
 
-src="https://github.com/majidtdeni666/Welcome-Voice/blob/main/.scp/termux.jpg"
+<img src="https://github.com/majidtdeni666/Welcome-Voice/blob/main/.scp/termux.jpg">
