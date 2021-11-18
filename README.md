@@ -1,7 +1,7 @@
 # Welcome-Voice
 Termux Voice Welcome
 
-☣️ Installation
+# Installation
 - pkg update -y
 - pkg upgrade -y
 - pkg install mpv -y
